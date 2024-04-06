@@ -5,7 +5,7 @@ import { setStore, getStore } from '@/utils/store';
 import { dateFormat } from '@/utils/date';
 import { getFileUrl } from '@/utils/system-helper';
 
-import avatar from '@/assets/images/man.png';
+import avatar from '@/assets/images/man.jpg';
 
 export default {
     state: {
